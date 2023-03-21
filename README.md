@@ -40,8 +40,8 @@ How to Choose the Right Face Recognition Machine Learning Model
 •	Face recognition models vary significantly in terms of their accuracy requirements and cost/scalability tradeoffs. You must choose one that fits with your project goals so that neither money nor time goes wasted on unnecessary features.
 
 # DOCUMENTS AND PRESENTATION:
+[https://drive.google.com/drive/folders/1xRCzD6tg3FZKoV1AjcE1ZJuUBkgWy4mm?usp=sharing] Drive Link with all the files
 
-file:///C:/Users/Sam%20Jackson/OneDrive/Desktop/IOT%20INNOVATHON%20PROJECT%20FACE%20RECOGNITION.pdf
 
 
 # Conclusion
