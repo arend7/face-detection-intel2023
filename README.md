@@ -2,7 +2,9 @@
 # Instruction
 + Install intel oneAPI Toolkit by the following link
 https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=window&distributions=offline
-+ DownloaD The zip file from the github and extract it
++ select the OS which you are using in your PC.
++ select to use file in online or offline.(we used offline package)
++ Download The zip file from the github and extract it
 + Using any software for example VS Code and Pycharm etc
 + Open folder FaceDetectionLive.py
 + Run it
