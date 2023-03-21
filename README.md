@@ -1,12 +1,12 @@
 # Face-Detection
 # Instruction
-+Install intel oneAPI Toolkit by the following link
++ Install intel oneAPI Toolkit by the following link
 https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=window&distributions=offline
-+DownloaD The zip file from the github and extract it
-+Using any software for example VS Code and Pycharm etc
-+Open folder FaceDetectionLive.py
-+Run it
-+Then it will open webcam to live view of the poeple which the human face is detected and Higlights the detected face with a Green box
++ DownloaD The zip file from the github and extract it
++ Using any software for example VS Code and Pycharm etc
++ Open folder FaceDetectionLive.py
++ Run it
++ Then it will open webcam to live view of the poeple which the human face is detected and Higlights the detected face with a Green box
 # OVERVIEW:
 Face recognition is a type of biometric software that identifies individuals by their facial features. This software is developed to identify faces individually or in a group. They recognise the facial features of individuals and detect human faces accurately. It also counts the number of faces within the scope of the camera view. This software can be integrated into a surveillance camera and can be used to detect people stranded during calamities.
 # ABSTRACT:
