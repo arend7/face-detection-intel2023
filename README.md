@@ -1,4 +1,6 @@
 # Face-Detection
+# Instruction
+https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=window&distributions=offline
 # OVERVIEW:
 Face recognition is a type of biometric software that identifies individuals by their facial features. This software is developed to identify faces individually or in a group. They recognise the facial features of individuals and detect human faces accurately. It also counts the number of faces within the scope of the camera view. This software can be integrated into a surveillance camera and can be used to detect people stranded during calamities.
 # ABSTRACT:
