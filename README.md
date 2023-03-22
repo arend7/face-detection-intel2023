@@ -1,4 +1,4 @@
-# face-detection-intel2023
+# face-detection-intel Hackathon 2023
 
 # Instruction
 + Install intel oneAPI Toolkit by the following link
