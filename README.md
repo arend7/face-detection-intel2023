@@ -32,7 +32,7 @@ Best Practices for Implementing Face Recognition Machine Learning ModelBest Prac
 +	Data pre-processing:
 +	Model selection:
 
-# Output of program
+# Output 
  
 ![image](https://user-images.githubusercontent.com/128407097/226568211-25d9663b-1390-4a01-9877-d89ec7cb36e7.png)
 
